@@ -1,0 +1,2 @@
+# myimage
+chinese char
